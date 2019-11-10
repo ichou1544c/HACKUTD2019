@@ -10,8 +10,10 @@ function App() {
         </title>
       </head>
       <body>
-        <div>
-          <h1 class="header">Hey!</h1>
+        <div class="text">
+        </div>
+        <div class="flash-game">
+          <span><embed src="assets/game.swf" width="800" height="600"></embed></span>
         </div>
       </body>
     </div>
